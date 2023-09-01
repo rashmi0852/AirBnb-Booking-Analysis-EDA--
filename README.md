@@ -34,7 +34,7 @@ In conclusion, our comprehensive analysis of the Airbnb dataset has yielded valu
 
 These findings offer a roadmap for Airbnb to excel by enhancing guest experiences, optimizing property listings, and tailoring offerings to specific neighborhood dynamics. This not only attracts more guests but also maximizes revenue. These insights are essential for improving user satisfaction, increasing bookings, and achieving long-term sustainability in the highly competitive hospitality industry. With these strategic actions, Airbnb can continue to provide exceptional travel opportunities while ensuring business prosperity.
 
-### Library used:
+### LIBRARY USED:
 •	Pandas- Data manipulation & analysis (Data Frame)
 
 •	NumPy-Mathematical operations on arrays
@@ -46,7 +46,7 @@ These findings offer a roadmap for Airbnb to excel by enhancing guest experience
 •	Warnings- To handle/Ignore warnings
 
 
-### REFERENCE:
+### REFERENCES:
 •	GeeksforGeeks
 
 •	Stack overflow
